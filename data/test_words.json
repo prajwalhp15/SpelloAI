@@ -1,0 +1,10 @@
+[
+  {"input": "pannir", "expected": "paneer"},
+  {"input": "upmae", "expected": "upma"},
+  {"input": "ravaee", "expected": "rava"},
+  {"input": "dossaa", "expected": "dosa"},
+  {"input": "samburr", "expected": "sambar"},
+  {"input": "idlee", "expected": "idli"},
+  {"input": "chappathi", "expected": "chapathi"},
+  {"input": "poorri", "expected": "poori"}
+]
